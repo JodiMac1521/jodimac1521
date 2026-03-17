@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 What I Built
 
 **[Work Simplr](https://worksimplr.com)** — an AI-augmented workforce platform that connects businesses with vetted college talent through structured **SprintWork™** sprints.
 
@@ -23,7 +23,7 @@
 - 🏆 **5,000+ projects** delivered across research, product, ops, and GTM
 - 🤖 **SprintWork™** — a proprietary AI-powered sprint methodology grounded in learning science
 - 🌱 Backed by **Techstars** and **Gener8tor**
-- 💡 Currently raising **Pre-Seed · $1.5M · $10M valuation**
+  
 
 ---
 
