@@ -60,16 +60,13 @@ Built with React + Vite · 5 pages · deployed via GitHub Actions → GitHub Pag
 > The structured sprint framework powering every Work Simplr project.
 Documentation, templates, and implementation guides for AI-augmented project execution.
 
-### 📊 Work Simplr Investor Materials *(private)*
-> Traction summaries, financial models, and due diligence documentation for pre-seed raise.
-
 ---
 
 ## 📈 By The Numbers
 
 | Metric | Value |
 |---|---|
-| ARR | $450K |
+| ARR | $1.1M |
 | Projects Delivered | 5,000+ |
 | Completion Rate | 98% |
 | Client Retention | 87% |
@@ -93,7 +90,7 @@ Documentation, templates, and implementation guides for AI-augmented project exe
 ```
 🔨 Building  →  Sprint-Terns™ platform (React / GitHub Pages)
 📣 Writing   →  "Poke the Bear" LinkedIn series on AI + work
-💰 Raising   →  Pre-Seed $1.5M — AI-augmented workforce
+💡 Community   →  Inner Circle ecosystem for students 3-5 years post graduation with life-hacks
 🌱 Planting  →  SprintWork™ as a category
 ```
 
