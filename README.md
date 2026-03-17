@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JodiMac-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jodimac)
 [![Work Simplr](https://img.shields.io/badge/Work%20Simplr-worksimplr.com-ff5500?style=flat&logoColor=white)](https://worksimplr.com)
 [![Sprint-Terns™](https://img.shields.io/badge/Sprint--Terns™-Live%20Site-ff5500?style=flat&logoColor=white)](https://jodimac1521.github.io/sprint-terns/)
-[![Patent](https://img.shields.io/badge/Patent-US%200453.02.0-gray?style=flat&logo=google&logoColor=white)](#)
+[![Patent](https://img.shields.io/badge/Patent-Pending-gray?style=flat&logo=google&logoColor=white)](#)
 
 </div>
 
@@ -83,7 +83,7 @@ Documentation, templates, and implementation guides for AI-augmented project exe
 - 🏫 **NC State University** — BS, 1992
 - 🎨 **General Assembly** — UX/UI Design Certificate, 2021
 - 📚 **30+ years** in EdTech — scaled products from $0 → $130M+ at Pearson
-- 💡 **Patent:** US 0453.02.0
+- 💡 **Patent:** Pending
 - ⚾ Lifelong Red Sox fan. Moneyball thinker. Launched this company at 51.
 
 ---
