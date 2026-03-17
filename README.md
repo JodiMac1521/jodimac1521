@@ -19,7 +19,7 @@
 
 > *"The future of work doesn't wait for capacity. It sprints."*
 
-- 📦 **$450K ARR** · 98% completion · 87% retention · 65% margins
+- 📦 **$1M ARR** · 98% completion · 87% retention · 65% margins
 - 🏆 **5,000+ projects** delivered across research, product, ops, and GTM
 - 🤖 **SprintWork™** — a proprietary AI-powered sprint methodology grounded in learning science
 - 🌱 Backed by **Techstars** and **Gener8tor**
