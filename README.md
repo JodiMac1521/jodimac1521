@@ -79,6 +79,7 @@ Documentation, templates, and implementation guides for AI-augmented project exe
 
 - 🏫 **NC State University** — BS, 1992
 - 🎨 **General Assembly** — UX/UI Design Certificate, 2021
+- 🎨 **Google** — AI, Data Analytics 2023
 - 📚 **30+ years** in EdTech — scaled products from $0 → $130M+ at Pearson
 - 💡 **Patent:** Pending
 - ⚾ Lifelong Red Sox fan. Moneyball thinker. Launched this company at 51.
