@@ -91,8 +91,9 @@ Documentation, templates, and implementation guides for AI-augmented project exe
 ```
 🔨 Building  →  Sprint-Terns™ platform (React / GitHub Pages)
 📣 Writing   →  "Poke the Bear" LinkedIn series on AI + work
-💡 Community   →  Inner Circle ecosystem for students 3-5 years post graduation with life-hacks
+💡 Community →  Inner Circle ecosystem for students 3-5 years post graduation with life-hacks
 🌱 Planting  →  SprintWork™ as a category
+🎨 Storytelling -> The writer who writes to unlock the entire argument & the answer you didn't know you needed.
 ```
 
 ---
