@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JodiMac-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jodimac)
 [![Work Simplr](https://img.shields.io/badge/Work%20Simplr-worksimplr.com-ff5500?style=flat&logoColor=white)](https://worksimplr.com)
 [![Sprint-Terns™](https://img.shields.io/badge/Sprint--Terns™-Live%20Site-ff5500?style=flat&logoColor=white)](https://jodimac1521.github.io/sprint-terns/)
+[![LifeLab](https://img.shields.io/badge/LifeLab-lifelab.one-2EAA8A?style=flat&logoColor=white)](https://lifelab.one)
 [![Patent](https://img.shields.io/badge/Patent-Pending-gray?style=flat&logo=google&logoColor=white)](#)
 
 </div>
@@ -54,11 +55,31 @@
 
 ### 🔶 [Sprint-Terns™ Platform Site](https://github.com/JodiMac1521/sprint-terns)
 > The customer-facing website for Work Simplr's AI-powered workforce platform.
-Built with React + Vite · 5 pages · deployed via GitHub Actions → GitHub Pages
 
-### 🧠 SprintWork™ Methodology *(coming soon)*
+Built with React + Vite · 5 pages · deployed via GitHub Actions → GitHub Pages · live at [jodimac1521.github.io/sprint-terns](https://jodimac1521.github.io/sprint-terns/)
+
+---
+
+### 🧪 [The Life Lab — Waitlist Site](https://github.com/JodiMac1521/lifelab-waitlist)
+> Stealth launch waitlist for [lifelab.one](https://lifelab.one) — a free community for ages 16–30 bridging the chasm from school to career.
+
+HTML · CSS · Vanilla JS · live at [lifelab.one](https://lifelab.one) · *"Bridge the chasm. Build the life."*
+
+---
+
+### ✍️ [Content Sample Library](https://github.com/JodiMac1521/content-samples)
+> 9 content categories · 36 sample posts · a writing philosophy built on curiosity over noise.
+
+Thought leadership, ghostwriting, and research-first storytelling across AI, EdTech, Future of Work, Startup Savvy, Chicks Got Game, and more. Every piece built on the same framework: hook → problem → insight → evidence → takeaway.
+
+> *"The goal is never to be the loudest voice in the room. It's to be the one they're still thinking about at 2am."*
+
+---
+
+### 🧠 [SprintWork™ Methodology](https://github.com/JodiMac1521/sprintwork-methodology)
 > The structured sprint framework powering every Work Simplr project.
-Documentation, templates, and implementation guides for AI-augmented project execution.
+
+Documentation, templates, and implementation guides for AI-augmented project execution · 98% completion rate · built on 5,000+ real projects.
 
 ---
 
@@ -89,11 +110,13 @@ Documentation, templates, and implementation guides for AI-augmented project exe
 ## 💬 Current Focus
 
 ```
-🔨 Building  →  Sprint-Terns™ platform (React / GitHub Pages)
-📣 Writing   →  "Poke the Bear" LinkedIn series on AI + work
-💡 Community →  Inner Circle ecosystem for students 3-5 years post graduation with life-hacks
-🌱 Planting  →  SprintWork™ as a category
-🎨 Storytelling -> The writer who writes to unlock the entire argument & the answer you didn't know you needed.
+🔨 Building     →  Sprint-Terns™ platform (React / GitHub Pages)
+🧪 Launching    →  The Life Lab — free community for ages 16–30 (lifelab.one)
+📣 Writing      →  "Poke the Bear" LinkedIn series on AI + work
+✍️  Freelancing  →  Ghostwriting, annual reports, thought leadership
+💡 Community   →  Inner Circle ecosystem for students bridging school to career
+🌱 Planting    →  SprintWork™ as a category
+🎨 Storytelling →  Curiosity > noise. The antithesis of the typical POV.
 ```
 
 ---
@@ -102,6 +125,6 @@ Documentation, templates, and implementation guides for AI-augmented project exe
 
 *Curiosity > noise. Always.*
 
-**[worksimplr.com](https://worksimplr.com) · [LinkedIn](https://www.linkedin.com/in/jodimac) · [Sprint-Terns™](https://jodimac1521.github.io/sprint-terns/)**
+**[worksimplr.com](https://worksimplr.com) · [lifelab.one](https://lifelab.one) · [LinkedIn](https://www.linkedin.com/in/jodimac) · [Sprint-Terns™](https://jodimac1521.github.io/sprint-terns/) · [Content Library](https://github.com/JodiMac1521/content-samples)**
 
 </div>
