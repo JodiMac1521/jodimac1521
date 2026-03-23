@@ -113,9 +113,9 @@ Documentation, templates, and implementation guides for AI-augmented project exe
 🔨 Building     →  Sprint-Terns™ platform (React / GitHub Pages)
 🧪 Launching    →  The Life Lab — free community for ages 16–30 (lifelab.one)
 📣 Writing      →  "Poke the Bear" LinkedIn series on AI + work
-✍️  Freelancing  →  Ghostwriting, annual reports, thought leadership
-💡 Community   →  Inner Circle ecosystem for students bridging school to career
-🌱 Planting    →  SprintWork™ as a category
+✍️ Freelancing  →  Ghostwriting, annual reports, thought leadership
+💡 Community    →  Inner Circle ecosystem for students bridging school to career
+🌱 Planting     →  SprintWork™ as a category
 🎨 Storytelling →  Curiosity > noise. The antithesis of the typical POV.
 ```
 
