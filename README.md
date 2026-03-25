@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JodiMac-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jodimac)
 [![Work Simplr](https://img.shields.io/badge/Work%20Simplr-worksimplr.com-ff5500?style=flat&logoColor=white)](https://worksimplr.com)
 [![Sprint-Terns™](https://img.shields.io/badge/Sprint--Terns™-Live%20Site-ff5500?style=flat&logoColor=white)](https://jodimac1521.github.io/sprint-terns/)
-[![LifeLab](https://img.shields.io/badge/LifeLab-lifelab.one-2EAA8A?style=flat&logoColor=white)]([https://lifelab.one](https://fuchsia-elfrieda-8.tiiny.site))
+[![LifeLab](https://img.shields.io/badge/LifeLab-lifelab.one-2EAA8A?style=flat&logoColor=white)]](https://fuchsia-elfrieda-8.tiiny.site))
 [![Patent](https://img.shields.io/badge/Patent-Pending-gray?style=flat&logo=google&logoColor=white)](#)
 
 </div>
