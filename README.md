@@ -61,9 +61,9 @@ Built with React + Vite · 5 pages · deployed via GitHub Actions → GitHub Pag
 ---
 
 ### 🧪 [The Life Lab — Waitlist Site](https://github.com/JodiMac1521/lifelab-waitlist)
-> Stealth launch waitlist for [lifelab.one]([https://lifelab.one](https://fuchsia-elfrieda-8.tiiny.site)) — a free community for ages 16–30 bridging the chasm from school to career.
+> Stealth launch waitlist for [lifelab.one]([(https://fuchsia-elfrieda-8.tiiny.site) — a free community for ages 16–30 bridging the chasm from school to career.
 
-HTML · CSS · Vanilla JS · live at [lifelab.one]([https://lifelab.one)](https://fuchsia-elfrieda-8.tiiny.site) · *"Bridge the chasm. Build the life."*
+HTML · CSS · Vanilla JS · live at [lifelab.one]([(https://fuchsia-elfrieda-8.tiiny.site) · *"Bridge the chasm. Build the life."*
 
 ---
 
