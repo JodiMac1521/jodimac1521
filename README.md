@@ -1,130 +1,134 @@
 <div align="center">
 
-# Hi, I'm Jodi Mac 👋
+# Jodi McPherson
 
-### Founder & CEO · Work Simplr | Builder · EdTech Veteran · AI Workforce Pioneer
+### AI Infrastructure & Enterprise Transformation Executive
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JodiMac-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jodimac)
-[![Work Simplr](https://img.shields.io/badge/Work%20Simplr-worksimplr.com-ff5500?style=flat&logoColor=white)](https://worksimplr.com)
-[![Sprint-Terns™](https://img.shields.io/badge/Sprint--Terns™-Live%20Site-ff5500?style=flat&logoColor=white)](https://jodimac1521.github.io/sprint-terns/)
-[![LifeLab](https://img.shields.io/badge/LifeLab-lifelab.one-2EAA8A?style=flat&logoColor=white)](https://fuchsia-elfrieda-8.tiiny.site)
-[![Patent](https://img.shields.io/badge/Patent-Pending-gray?style=flat&logo=google&logoColor=white)](#)
+**Building the connective tissue that makes enterprise AI work.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jodi%20McPherson-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jodimac)
+[![Work Simplr](https://img.shields.io/badge/Work%20Simplr-worksimplr.com-D35400?style=flat)](https://worksimplr.com)
+[![GitHub](https://img.shields.io/badge/GitHub-JodiMac1521-181717?style=flat&logo=github&logoColor=white)](https://github.com/JodiMac1521)
 
 </div>
 
 ---
 
-## 🚀 What I Built
+## Executive Profile
 
-**[Work Simplr](https://worksimplr.com)** — an AI-augmented workforce platform that connects businesses with vetted college talent through structured **SprintWork™** sprints.
+I build the infrastructure between AI ambition and enterprise execution: operating models, workflow orchestration, taxonomies, knowledge architecture, quality systems, and human-in-the-loop governance.
 
-> *"The future of work doesn't wait for capacity. It sprints."*
+Across 30+ years of executive leadership, I have transformed complex products and operations at scale—from a **$180M assessment digitization initiative** and a **$130M SaaS portfolio at Pearson** to the AI-enabled delivery model behind **Work Simplr**.
 
-- 📦 **$1M ARR** · 98% completion · 87% retention · 65% margins
-- 🏆 **5,000+ projects** delivered across research, product, ops, and GTM
-- 🤖 **SprintWork™** — a proprietary AI-powered sprint methodology grounded in learning science
-- 🌱 Backed by **Techstars** and **Gener8tor**
-  
+My work sits at the intersection of enterprise strategy, product, operations, organizational change, and responsible AI. The throughline is simple: make complex systems usable, governable, measurable, and ready to scale.
 
 ---
 
-## 🛠️ Tech Stack
+## What I Build
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Design & UX**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![UX/UI](https://img.shields.io/badge/UX%2FUI-General%20Assembly%20Cert-black?style=flat)
-
-**Tools & Platform**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- **AI-enabled operating models** that connect strategy, people, workflows, data, and governance
+- **Workflow orchestration** that clarifies scoping, routing, review, escalation, and delivery
+- **Taxonomy and knowledge infrastructure** that make content and data findable, reusable, and machine-ready
+- **Human-in-the-loop quality systems** that combine AI speed with accountable expert judgment
+- **Transformation roadmaps** that translate emerging technology into measurable business outcomes
+- **Organizational systems** that help teams adopt new ways of working—not merely new tools
 
 ---
 
-## 📌 Featured Projects
+## Selected Enterprise Impact
 
-### 🔶 [Sprint-Terns™ Platform Site](https://github.com/JodiMac1521/sprint-terns)
-> The customer-facing website for Work Simplr's AI-powered workforce platform.
+### Work Simplr | Founder & CEO
 
-Built with React + Vite · 5 pages · deployed via GitHub Actions → GitHub Pages · live at [jodimac1521.github.io/sprint-terns](https://jodimac1521.github.io/sprint-terns/)
+Built an AI-enabled operating model and **SprintWork™** methodology for orchestrating distributed work across clients, talent, and quality-review systems.
+
+- Generated **$1M+ in cumulative revenue**
+- Served **60+ clients**
+- Built a network spanning **25,000 talent profiles**, **500 schools**, and **5,000+ projects**
+- Achieved **98% project completion** and **86%+ client retention**
+- Designed the taxonomy, scoping, workflow orchestration, QA, and human-in-the-loop governance supporting delivery at scale
+- Participated in **Techstars** and **Gener8tor**
+
+### Pearson | Enterprise Product & Transformation Leadership
+
+Led large-scale digitization, SaaS growth, assessment innovation, and cross-enterprise transformation.
+
+- Directed a **$180M assessment digitization initiative** using machine learning and algorithmic capabilities
+- Led a **$130M SaaS portfolio**
+- Delivered **55% revenue growth**, **400% client growth**, **22% cost reduction**, and **35% faster time to market**
+- Built the **Comprehensive Learner Profile**, Personal & Social Capabilities framework, and **nine microcredentials**
+- Developed patent-backed intellectual property
+- Established **50+ strategic partnerships representing $120M+**
+- Led teams of **50+** across product, technology, operations, research, and go-to-market functions
+
+### AI Evaluation & Quality
+
+**Mercor — Senior AI Reviewer & Evaluator**
+
+- Completed **2,600+ hours** of AI evaluation and review work
+- Selected for increasingly complex assignments requiring structured judgment, accuracy, and quality control
+
+**Alignerr — AI Trainer & Evaluator**
+
+- Evaluated and improved AI outputs through rubric-based assessment, expert feedback, and quality review
+
+### Catalant / Flinn Scientific | AI-Enabled Commerce Transformation
+
+Designed an AI-enabled eCommerce taxonomy and self-improving classification workflow spanning **Optimizely, PIM, DAM, search, governance, and feedback loops**.
 
 ---
 
-### 🧪 [The Life Lab — Waitlist Site](https://github.com/JodiMac1521/lifelab-waitlist)
-> Stealth launch waitlist for [![LifeLab](https://img.shields.io/badge/LifeLab-lifelab.one-2EAA8A?style=flat&logoColor=white)](https://fuchsia-elfrieda-8.tiiny.site) — a free community for ages 16–30 bridging the chasm from school to career.
+## Transformation Portfolio
 
-HTML · CSS · Vanilla JS · *"Bridge the chasm. Build the life."*
-
----
-
-### ✍️ [Content Sample Library](https://github.com/JodiMac1521/content-samples)
-> 9 content categories · 36 sample posts · a writing philosophy built on curiosity over noise.
-
-Thought leadership, ghostwriting, and research-first storytelling across AI, EdTech, Future of Work, Startup Savvy, Chicks Got Game, and more. Every piece built on the same framework: hook → problem → insight → evidence → takeaway.
-
-> *"The goal is never to be the loudest voice in the room. It's to be the one they're still thinking about at 2am."*
-
----
-
-### 🧠 [SprintWork™ Methodology](https://github.com/JodiMac1521/sprintwork-methodology)
-> The structured sprint framework powering every Work Simplr project.
-
-Documentation, templates, and implementation guides for AI-augmented project execution · 98% completion rate · built on 5,000+ real projects.
-
----
-
-## 📈 By The Numbers
-
-| Metric | Value |
+| Domain | Infrastructure Built |
 |---|---|
-| ARR | $1.1M |
-| Projects Delivered | 5,000+ |
-| Completion Rate | 98% |
-| Client Retention | 87% |
-| Gross Margin | 65% |
-| Years Bootstrapped | 3.5 |
+| Enterprise AI | Operating models, governance, adoption roadmaps |
+| Workflow Modernization | Scoping, orchestration, routing, QA, escalation |
+| Knowledge Architecture | Taxonomies, metadata, classification, content models |
+| Product & Platform | SaaS portfolios, assessment systems, eCommerce ecosystems |
+| Responsible AI | Human review, evaluation rubrics, feedback loops, controls |
+| Organizational Change | Cross-functional alignment, capability building, new ways of working |
 
 ---
 
-## 🎓 Background
+## Featured Work
 
-- 🏫 **NC State University** — BS, 1992
-- 🎨 **General Assembly** — UX/UI Design Certificate, 2021
-- 🎨 **Google** — AI, Data Analytics 2023
-- 📚 **30+ years** in EdTech — scaled products from $0 → $130M+ at Pearson
-- 💡 **Patent:** Pending
-- ⚾ Lifelong Red Sox fan. Moneyball thinker. Launched this company at 51.
+### [Sprint-Terns™ Platform](https://github.com/JodiMac1521/sprint-terns)
+
+Customer-facing platform for Work Simplr's AI-enabled workforce model. Built with React and Vite and deployed through GitHub Actions.
+
+### [SprintWork™ Methodology](https://github.com/JodiMac1521/sprintwork-methodology)
+
+Documentation and implementation resources for the structured sprint framework supporting 5,000+ completed projects.
+
+### [Content Sample Library](https://github.com/JodiMac1521/content-samples)
+
+Research-driven writing across AI, EdTech, the future of work, leadership, and entrepreneurship.
+
+### [The Life Lab](https://github.com/JodiMac1521/lifelab-waitlist)
+
+An early-stage community concept designed to help emerging adults bridge the gap from education to career.
+
+---
+
+## Credentials & Tools
+
+- **16 Google certificates**, including **8 focused on AI**
+- UX/UI Design Certificate, General Assembly
+- BS, North Carolina State University
+- Experience across AI evaluation, machine learning, SaaS, eCommerce, assessment technology, PIM/DAM, Optimizely, product strategy, and enterprise operations
 
 ---
 
-## 💬 Current Focus
+## Current Focus
 
-```
-🔨 Building     →  Sprint-Terns™ platform (React / GitHub Pages)
-🧪 Launching    →  The Life Lab — free community for ages 16–30 (lifelab.one)
-📣 Writing      →  "Poke the Bear" LinkedIn series on AI + work
-✍️ Freelancing  →  Ghostwriting, annual reports, thought leadership
-💡 Community    →  Inner Circle ecosystem for students bridging school to career
-🌱 Planting     →  SprintWork™ as a category
-🎨 Storytelling →  Curiosity > noise. The antithesis of the typical POV.
-```
+I am focused on executive opportunities where AI transformation depends on more than a model or a tool—where the organization needs the operating infrastructure to make AI useful, trustworthy, and scalable.
 
----
+**Target leadership areas:** AI Transformation · Enterprise Strategy · Transformation Office · COO/GM Leadership · Product & Platform Strategy
 
 <div align="center">
 
-*Curiosity > noise. Always.*
+### Strategy sets the direction. Infrastructure makes transformation real.
 
-**[worksimplr.com](https://worksimplr.com) · [lifelab.one](https://lifelab.one) · [LinkedIn](https://www.linkedin.com/in/jodimac) · [Sprint-Terns™](https://jodimac1521.github.io/sprint-terns/) · [Content Library](https://github.com/JodiMac1521/content-samples)**
+[LinkedIn](https://www.linkedin.com/in/jodimac) · [Work Simplr](https://worksimplr.com) · [GitHub](https://github.com/JodiMac1521)
 
 </div>
