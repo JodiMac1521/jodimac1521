@@ -62,7 +62,7 @@ Led large-scale digitization, SaaS growth, assessment innovation, and cross-ente
 
 ### AI Evaluation & Quality
 
-**Mercor — Senior AI Reviewer & Evaluator**
+**Leading Data Annotation Company — Senior AI Reviewer & Evaluator**
 
 - Completed **2,600+ hours** of AI evaluation and review work
 - Selected for increasingly complex assignments requiring structured judgment, accuracy, and quality control
